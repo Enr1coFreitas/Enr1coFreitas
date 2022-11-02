@@ -1,7 +1,7 @@
 ### Hello, I'm Enrico Freitas! 👋
 <div>
-  <p>I'm a Front-End Developer and a Full-Stack Developer Jr.</p> 
-  <p>I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/"target="_blank">Kenzie Academy Brazil</a> and computer science at <strong>Estácio</strong>.</p>
+  <p>I'm a Full-Stack Developer Jr.</p> 
+  <p>I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/"target="_blank">Kenzie Academy Brazil</a> and computer science at <strong>Estácio de Sá</strong>.</p>
  </div>
 <div align="center">
   <a href="https://github.com/Enr1coFreitas">
