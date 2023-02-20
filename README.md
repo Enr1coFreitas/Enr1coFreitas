@@ -2,6 +2,8 @@
 <div>
   <p>I'm a Full-Stack Developer Jr.</p> 
   <p>I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/"target="_blank">Kenzie Academy Brazil</a> and computer science at <strong>Estácio de Sá</strong>.</p>
+  <p>Working since Oct/22 at Teknisa as a Full-Stack developer - in local repositories.
+    For this reason the lack of activity in the contributions.</p>
  </div>
 <div align="center">
   <a href="https://github.com/Enr1coFreitas">
