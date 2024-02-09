@@ -1,5 +1,5 @@
 <div>
-  <p>I'm a Full-Stack Developer Jr.</p> 
+  <p>I'm a Full-Stack Developer</p> 
   <p>I'm studying computer science at <strong>Estácio de Sá</strong>.</p>
   <p>Working since Oct/22 at Teknisa as a Full-Stack developer - in local repositories (Gitlab) </p>
  </div>
