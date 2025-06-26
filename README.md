@@ -1,6 +1,5 @@
 <div>
-  <p>I'm a Full-Stack Developer</p> 
-  <p>I'm studying computer science.</p>
+  <p>I'm a Full-Stack Developer and studying computer science.</p> 
  </div>
  
 <div>
